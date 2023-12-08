@@ -12,6 +12,9 @@
     <li>git push origin master</li>
 </ul>
 
+<h2>SCSS SASS - полезный гайд</h2>
+<p>https://sass-scss.ru/guide/ </p>
+
 <pre>
    \      /\
     )    ( ')
